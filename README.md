@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @demolaokesola
 - 👀 I’m interested in solving critical problems with technology
-- 🌱 I’m currently learning Javascript/NodeJS
+- 🌱 I’m currently learning CQRS patterns
 - 💞️ I’m looking to collaborate on open source Java Projects
 - 📫 Reach me at demola@demolaokesola.com
 
