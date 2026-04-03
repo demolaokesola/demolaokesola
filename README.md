@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @demolaokesola
 - 👀 I’m interested in solving critical problems with technology
-- 🌱 I’m currently learning CQRS patterns
-- 💞️ I’m looking to collaborate on open source Java Projects
+- 🌱 I’m currently learning dbt for Data Engineering
+- 💞️ I’m looking to collaborate on open source PHP Projects
 - 📫 Reach me at demola@demolaokesola.com
 
 <!---
